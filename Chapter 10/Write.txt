@@ -1,0 +1,2 @@
+ the value of num is 50
+ the value of num is 75

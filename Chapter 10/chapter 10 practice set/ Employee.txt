@@ -1,0 +1,2 @@
+ the name and salay of employee 1 is himanshu , 4500
+ the name and salay of employee 1 is ravi , 1200
